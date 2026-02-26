@@ -57,3 +57,6 @@ Issues get moved when they are resolved and no sooner.
 Anyone can create an issue as long as it is a reasonable one that can not be solved without proper team feedback.
 The team member who created the issue will move it once it is confirmed it is resolved.
 Procedure: create issue, work issue, confirm issue is resolved, and move it to closed.
+
+Signed By: Trayia Wilson 02/26/2026
+Signed By: Alexis Bustos 02/26/2026
