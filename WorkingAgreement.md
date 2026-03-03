@@ -1,5 +1,5 @@
 Working Agreement 
-Members: Alexis, Julio, Norma, Trayia
+Members: Alexis, Julio, Norma, Trayia, Jasmine
 
 Culture 
 Trust
