@@ -1,6 +1,6 @@
 Team Foundation Notes
 
-Members: Alexis, Julio, Norma, Traiya
+Members: Alexis, Julio, Norma, Traiya, Jasmine
 
 I believe I figured out how to clone and edit the TeamNotes.md File
 
